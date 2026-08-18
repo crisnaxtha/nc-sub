@@ -1,0 +1,13 @@
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+print("I know how to use while loops")
+
